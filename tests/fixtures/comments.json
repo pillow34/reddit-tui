@@ -1,0 +1,75 @@
+[
+  {
+    "data": {
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "title": "Rust milestone planning",
+            "author": "alice",
+            "subreddit": "rust",
+            "score": 42,
+            "num_comments": 3,
+            "url": "https://example.com/rust-plan",
+            "selftext": "Plan the next milestone carefully.",
+            "permalink": "/r/rust/comments/abc123/rust_milestone_planning/",
+            "is_self": true,
+            "over_18": false,
+            "spoiler": false,
+            "stickied": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "author": "bob",
+            "body": "Looks good to me.",
+            "score": 10,
+            "depth": 0,
+            "replies": {
+              "data": {
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "author": null,
+                      "body": "",
+                      "score": 0,
+                      "depth": 1,
+                      "replies": {
+                        "data": {
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "author": "mod",
+                                "body": "[removed]",
+                                "score": 1,
+                                "depth": 2,
+                                "replies": ""
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "kind": "more",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

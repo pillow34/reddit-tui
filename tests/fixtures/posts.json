@@ -1,0 +1,53 @@
+{
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "title": "Rust milestone planning",
+          "author": "alice",
+          "subreddit": "rust",
+          "score": 42,
+          "num_comments": 7,
+          "url": "https://example.com/rust-plan",
+          "selftext": "Plan the next milestone carefully.",
+          "permalink": "/r/rust/comments/abc123/rust_milestone_planning/",
+          "is_self": true,
+          "over_18": false,
+          "spoiler": true,
+          "stickied": false
+        }
+      },
+      {
+        "kind": "t5",
+        "data": {}
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "title": "Release thread",
+          "author": null,
+          "subreddit": "rust",
+          "score": 90,
+          "num_comments": 15,
+          "url": "https://preview.redd.it/release.png?width=640&amp;format=png&amp;auto=webp",
+          "selftext": "",
+          "permalink": "/r/rust/comments/def456/release_thread/",
+          "is_self": false,
+          "over_18": true,
+          "spoiler": false,
+          "stickied": true,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://preview.redd.it/release.png?width=640&amp;format=png&amp;auto=webp"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
