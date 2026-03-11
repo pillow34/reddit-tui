@@ -1,6 +1,6 @@
 # reddit-tui
 
-A terminal Reddit browser written in Rust with background loading, a split-pane post reader, and keyboard-first navigation.
+A terminal Reddit browser written in Rust with background loading, a split-pane post reader, and keyboard-first navigation. Fully vibecoded.
 
 ## Features
 
